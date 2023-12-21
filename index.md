@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Om mig
-    text: Jag heter Torbjörn Edén och har lång erfarenhet av snickeri och hantverk i trä. Jag har renoverat flera hus och skapat mer än 100 unika föremål och möbler, allt från skärbrädor till matbord. Nu är jag redo att ta tag i dina projekt. Jag kan skapa unika inredningsdetaljer till dig eller hjälpa dig renovera ditt kök och allt där emellan.
+    text: Jag heter Torbjörn Edén och har lång erfarenhet av snickeri och trähantverk. Jag har också genomfört många renoveringsprojekt genom åren. Mitt stora intresse är att skapa personliga och unika föremål i trä, allt från rustika möbler till unika inredningsdetaljer. Jag jobbar gärna med återbrukat material för att ge extra liv åt mitt hantverk.<br/><br/>Nu är jag redo att ta tag i dina projekt. Jag gör framförallt möbler och inredning efter personliga önskemål. Ni kan också anlita mig för snickerijobb och renoveringar, allt från tapetsering till altanbyggen. 
     actions:
       - title: Kontakta mig
         url: '#contacts'
@@ -42,31 +42,31 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Min arbetsbänk
+        text: På min arbetsbänk är det alltid någonting spännande på gång!
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: Vedhylla
+        text: En vedhylla av återbrukat material skapar mysig stämning.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: Matbord
+        text: Ett elegant matbord av ek ger vardagsrummet nytt liv.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Soffbord
+        text: Ett gammalt gulnat furubord blev ett personligt soffbord!
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Tiny House
+        text: Jag hjälpe min dotter bygga ett Tiny House med veranda.
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Köksrenovering
+        text: Ett kök jag byggt med återbrukade köksluckor.
         icon: 6.jpg
         url: '#'
 
@@ -76,16 +76,14 @@ sections:
     text: >-
       Är du redo att starta ditt nästa projekt med mig? Ring mig eller skicka ett mail så kör vi igång!
     actions:
-    - title: +1 (202) 555-014
+    - title: 073-732 5806
       icon: bi-telephone-fill
+      url: 'tel:0737325806'
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+      url: mailto:torbjorneden66@gmail.com
+    - title: Instagram
+      icon: bi-instagram
+      url: 'https://www.instagram.com/edensnickeri/'
 
 ---
