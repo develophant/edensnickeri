@@ -86,7 +86,7 @@
 }
 
 @font-face{
-  font-family: 'SignPainter';
+  font-family: 'SignPainterHouseScript';
   src: url('SignPainterHouseScript.woff') format('woff')
 }
 
@@ -11005,7 +11005,7 @@ header.masthead h1, header.masthead .h1 {
 }
 
 #top_eden_2 {
-  font-family: 'SignPainter' !important;
+  font-family: 'SignPainterHouseScript' !important;
   font-size: 1.6rem !important;
 }
 
@@ -11014,12 +11014,12 @@ header.masthead h1, header.masthead .h1 {
 }
 
 #master_eden_2 {
-  font-family: 'SignPainter';
+  font-family: 'SignPainterHouseScript';
 }
 .eden_logo_1 {
   font-family: 'Georgia';
 }
 
 .eden_logo_2 {
-  font-family: 'SignPainter';
+  font-family: 'SignPainterHouseScript';
 }
