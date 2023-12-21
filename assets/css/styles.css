@@ -84,8 +84,13 @@
 *::after {
   box-sizing: border-box;
 }
-@import url('https://fonts.cdnfonts.com/css/signpainter');
-
+/*@font-face{
+  font-family:SignPainter;
+  font-style:normal;
+  font-weight:550;
+  src:local('SignPainter'),url(SignPainterHouseScript.ttf) format('ttf')
+}
+*/
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
