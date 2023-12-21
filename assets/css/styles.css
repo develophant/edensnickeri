@@ -86,10 +86,10 @@
 }
 
 @font-face{
-  font-family:SignPainter;
+  font-family: 'SignPainter';
   font-style:normal;
   font-weight:550;
-  src:local('SignPainter'),url(SignPainterHouseScript.ttf) format('ttf')
+  src: url('SignPainterHouseScript.woff') format('woff')
 }
 
 @media (prefers-reduced-motion: no-preference) {
