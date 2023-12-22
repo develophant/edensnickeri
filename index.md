@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Om mig
-    text: Jag heter Torbjörn Edén och har lång erfarenhet av snickeri och trähantverk. Jag har också genomfört många renoveringsprojekt genom åren. Mitt stora intresse är att skapa personliga och unika föremål i trä, allt från rustika möbler till unika inredningsdetaljer. Jag jobbar gärna med återbrukat material för att ge extra liv åt mitt hantverk.<br/><br/>Nu är jag redo att ta tag i dina projekt. Jag gör framförallt möbler och inredning efter personliga önskemål. Ni kan också anlita mig för snickerijobb och renoveringar, allt från tapetsering till altanbyggen. 
+    text: Jag heter Torbjörn Edén och har lång erfarenhet av snickeri och trähantverk. Jag har också genomfört många renoveringsprojekt genom åren. Mitt stora intresse är att skapa personliga och unika föremål i trä, allt från rustika möbler till unika inredningsdetaljer. Jag jobbar gärna med återbrukat material för att ge extra liv åt mitt hantverk.<br/><br/>Nu är jag redo att ta tag i dina projekt. Jag gör framförallt möbler och inredning efter personliga önskemål. Ni kan också anlita mig för snickerijobb och renoveringar, allt från tapetsering till altanbyggen.<br/><br/>Jag är verksam i Tranås, men kan skicka mindre föremål till hela Sverige. 
     actions:
       - title: Kontakta mig
         url: '#contacts'
@@ -74,7 +74,7 @@ sections:
     section_id: contacts
     title: Kontakta mig
     text: >-
-      Är du redo att starta ditt nästa projekt med mig? Ring mig eller skicka ett mail så kör vi igång!
+      Är du redo att starta ditt nästa projekt med mig? Ring mig eller skicka ett mail så kör vi igång!<br/><br/>Jag är verksam i Tranås, men kan skicka mindre föremål till hela Sverige.
     actions:
     - title: 073-732 5806
       icon: bi-telephone-fill
